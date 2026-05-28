@@ -17,11 +17,8 @@ Estou focado em crescer na área da tecnologia e aprender cada vez mais sobre pr
 ---
 
 # 📚 Atualmente aprendendo
-
-* Python
 * C#
-* Git e GitHub
-* Lógica de Programação
+* CSS
 
 ---
 
@@ -46,7 +43,6 @@ Estou focado em crescer na área da tecnologia e aprender cada vez mais sobre pr
 # 📂 Projetos
 
 🔹 Exercícios de programação
-🔹 Estudos em Python
 🔹 Estudos em C#
 🔹 Pequenos projetos e testes
 🔹 Aprendizados no VS Code
@@ -67,7 +63,4 @@ Gosto de aprender programação na prática, testar códigos e descobrir novas m
 ---
 
 # 🚀 Futuramente aprendendo
-
 * JavaScript
-* HTML
-* CSS
