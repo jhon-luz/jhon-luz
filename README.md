@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Jhon
 
 🎓 Estudante de programação e tecnologia
+
 💻 Apaixonado por desenvolvimento e aprendizado constante
+
 🚀 Sempre buscando evoluir minhas habilidades e criar novos projetos
 
 ---
