@@ -47,8 +47,11 @@ Estou focado em crescer na área da tecnologia e aprender cada vez mais sobre pr
 # 📂 Projetos
 
 🔹 Exercícios de programação
+
 🔹 Estudos em C#
+
 🔹 Pequenos projetos e testes
+
 🔹 Aprendizados no VS Code
 
 ---
