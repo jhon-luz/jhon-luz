@@ -1,43 +1,42 @@
 # 👋 Olá, eu sou Jhon
 
 🎓 Estudante de programação e tecnologia
-💻 Apaixonado por desenvolvimento web e aprendizado constante
+💻 Apaixonado por desenvolvimento e aprendizado constante
 🚀 Sempre buscando evoluir minhas habilidades e criar novos projetos
 
 ---
 
 # 🌟 Sobre mim
 
-Meu nome é Jhon e atualmente estou estudando programação, desenvolvimento web e lógica de programação.
-Gosto de aprender novas tecnologias, praticar códigos no VS Code e desenvolver pequenos projetos para melhorar minhas habilidades.
+Meu nome é Jhon e atualmente estou estudando programação, lógica de programação e desenvolvimento web.
 
-Estou focado em evoluir cada vez mais na área da tecnologia e adquirir experiência com desenvolvimento Front-End e programação em geral.
+Gosto de aprender novas tecnologias, praticar códigos no VS Code e desenvolver pequenos projetos para melhorar minhas habilidades todos os dias.
+
+Estou focado em crescer na área da tecnologia e aprender cada vez mais sobre programação.
 
 ---
 
 # 📚 Atualmente aprendendo
 
-* HTML5
-* CSS3
-* JavaScript
 * Python
+* C#
 * Git e GitHub
 * Lógica de Programação
 
 ---
 
-# 🛠️ Ferramentas e Tecnologias
+# 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,vscode,github" />
 </p>
 
 ---
 
-# 📌 Objetivos
+# 🎯 Objetivos
 
 ✔️ Melhorar minhas habilidades em programação
-✔️ Criar projetos cada vez mais completos
+✔️ Criar projetos cada vez melhores
 ✔️ Aprender novas tecnologias
 ✔️ Compartilhar meus projetos no GitHub
 ✔️ Evoluir como desenvolvedor
@@ -46,29 +45,17 @@ Estou focado em evoluir cada vez mais na área da tecnologia e adquirir experiê
 
 # 📂 Projetos
 
-🔹 Projetos de HTML e CSS
 🔹 Exercícios de programação
-🔹 Pequenos sistemas em Python
-🔹 Estudos e testes de código
-🔹 Projetos futuros em JavaScript
+🔹 Estudos em Python
+🔹 Estudos em C#
+🔹 Pequenos projetos e testes
+🔹 Aprendizados no VS Code
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhon-luz\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🔥 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-luz\&layout=compact\&theme=tokyonight)
-
----
 
 # 📫 Contato
 
-📧 Em breve...
 🌐 GitHub: https://github.com/jhon-luz
 
 ---
@@ -76,3 +63,11 @@ Estou focado em evoluir cada vez mais na área da tecnologia e adquirir experiê
 # ⚡ Curiosidade
 
 Gosto de aprender programação na prática, testar códigos e descobrir novas maneiras de criar projetos interessantes.
+
+---
+
+# 🚀 Futuramente aprendendo
+
+* JavaScript
+* HTML
+* CSS
