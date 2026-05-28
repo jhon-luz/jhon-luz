@@ -33,9 +33,13 @@ Estou focado em crescer na área da tecnologia e aprender cada vez mais sobre pr
 # 🎯 Objetivos
 
 ✔️ Melhorar minhas habilidades em programação
+
 ✔️ Criar projetos cada vez melhores
+
 ✔️ Aprender novas tecnologias
+
 ✔️ Compartilhar meus projetos no GitHub
+
 ✔️ Evoluir como desenvolvedor
 
 ---
